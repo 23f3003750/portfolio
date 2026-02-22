@@ -1,4 +1,3 @@
-# .github/workflows/cache-demo.yml
 name: Cache Demo
 
 on:
